@@ -69,8 +69,8 @@ all: main-build
 main-build: BLE_Custom.elf secondary-outputs
 
 # Tool invocations
-BLE_Custom.elf BLE_Custom.map: $(OBJS) $(USER_OBJS) C:\Users\chipi\Documents\GitHub\BLE_Station\BLE_Custom\STM32CubeIDE\STM32WB55RGVX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "BLE_Custom.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\chipi\Documents\GitHub\BLE_Station\BLE_Custom\STM32CubeIDE\STM32WB55RGVX_FLASH.ld" --specs=nosys.specs -Wl,-Map="BLE_Custom.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+BLE_Custom.elf BLE_Custom.map: $(OBJS) $(USER_OBJS) C:\Users\chipi\Downloads\en.stm32cubewb-v1-17-0\STM32Cube_FW_WB_V1.17.0\Projects\P-NUCLEO-WB55.Nucleo\Applications\BLE\BLE_Custom\STM32CubeIDE\STM32WB55RGVX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "BLE_Custom.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\chipi\Downloads\en.stm32cubewb-v1-17-0\STM32Cube_FW_WB_V1.17.0\Projects\P-NUCLEO-WB55.Nucleo\Applications\BLE\BLE_Custom\STM32CubeIDE\STM32WB55RGVX_FLASH.ld" --specs=nosys.specs -Wl,-Map="BLE_Custom.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

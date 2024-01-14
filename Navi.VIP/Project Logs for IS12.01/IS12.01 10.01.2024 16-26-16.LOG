@@ -1,0 +1,41 @@
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-NR6028-MFG
+Add Component: Footprint Not Found FP-NR6028-MFG
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found Y31N
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-11
+Add Class Member: Failed to add class member : Component D1 Power
+Add Class Member: Failed to add class member : Component D4 STAT
+Add Class Member: Failed to add class member : Component D7 TIME_PULSE
+Add Class Member: Failed to add class member : Component D8 GEOFENCE_STAT
+Add Class Member: Failed to add class member : Component D9 GNSS_RTK_STAT
+Add Class Member: Failed to add class member : Component L1 2.2?H
+Add Class Member: Failed to add class member : Component L3 2.2nH
+Add Class Member: Failed to add class member : Component R22 17R
+Add Class Member: Failed to add class member : Component U4 Y31N
+Added Room: Name=IS12.01-01.603.01

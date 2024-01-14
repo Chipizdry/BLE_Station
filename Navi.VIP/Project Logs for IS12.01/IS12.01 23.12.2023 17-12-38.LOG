@@ -1,0 +1,689 @@
+Change Footprint: Footprint Not Found DRC0010J_V
+Change Footprint: Footprint Not Found FP-318-08-MFG
+Change Component Footprint: Designator=BT1 Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Component Footprint: Designator=BT2 Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Component Footprint: Designator=BT3 Old Footprint=FP-1042P-MFG New Footprint=FP-1042P-MFG
+Change Footprint: Footprint Not Found FP-D0008A-MFG
+Change Footprint: Footprint Not Found FP-LBMF1608-0_8-0_2-IPC_A
+Change Footprint: Footprint Not Found FP-LBMF1608-0_8-0_2-IPC_A
+Change Footprint: Footprint Not Found FP-LBMF1608-0_8-0_2-IPC_A
+Change Footprint: Footprint Not Found FP-LBMF1608-0_8-0_2-IPC_A
+Change Footprint: Footprint Not Found FP-NR6028-MFG
+Change Footprint: Footprint Not Found FP-RSN0032B-MFG
+Change Footprint: Footprint Not Found FP-RTW0024H-MFG
+Change Footprint: Footprint Not Found FP-SOD-523-MFG
+Change Footprint: Footprint Not Found FP-SOD-523-MFG
+Change Footprint: Footprint Not Found FP-SOD-523-MFG
+Change Footprint: Footprint Not Found TECO-5-1814832-1_V
+Change Component Description : Designator=C38 Old Description=C0603 - SMD New Description=C0603 - SMD | 50V X7R
+Change Component Description : Designator=C39 Old Description=C0603 - SMD New Description=C0603 - SMD | 50V X7R
+Change Component Description : Designator=C51 Old Description=C0603 - SMD New Description=C0603 - SMD | 50V X7R
+Change Component Description : Designator=C53 Old Description=C0603 - SMD New Description=C0603 - SMD | 50V X7R
+Change Component Description : Designator=R28 Old Description=R0603 - SMD New Description=R0603 - SMD | +/- 1%, 0.1 W
+Change Component Description : Designator=R29 Old Description=R0603 - SMD New Description=R0603 - SMD | +/- 1%, 0.1 W
+Change Component Description : Designator=R30 Old Description=R0603 - SMD New Description=R0603 - SMD | +/- 1%, 0.1 W
+Change Component Library : Designator=BT1 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=BT2 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=BT3 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=D2 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=D3 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=D5 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=D10 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=J4 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=L1 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=L2 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=L3 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=L4 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=L5 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=U2 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=U3 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=U5 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=U9 Old Library=Altium Content Vault New Library=IS12.01.603.IntLib
+Change Component Library : Designator=C38 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=C39 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=C51 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=C53 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=J1 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=J2 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=J3 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=R28 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=R29 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=R30 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=SW1 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=SW2 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=SW3 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=Y1 Old Library=clooc.IntLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=B1 Old Library=EG912YEUAA-N06-SNNSA.SchLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=B2 Old Library=LD56100DPU33R.SchLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=B4 Old Library=STM32WB55RCV6.SchLib New Library=IS12.01.603.IntLib
+Change Component Library : Designator=B3 Old Library=ZED-F9P-02B.SchLib New Library=IS12.01.603.IntLib
+Change Managed Component Library Link : Designator=BT1 Old VaultGUID= New VaultGUID= Old ItemGUID=C9CBD20B-F117-41B3-A908-FF16C51F265D New ItemGUID= Old RevisionGUID=859B749D-04C8-458A-A9B6-EA682A2F3A41 New RevisionGUID=
+Change Managed Component Library Link : Designator=BT2 Old VaultGUID= New VaultGUID= Old ItemGUID=C9CBD20B-F117-41B3-A908-FF16C51F265D New ItemGUID= Old RevisionGUID=859B749D-04C8-458A-A9B6-EA682A2F3A41 New RevisionGUID=
+Change Managed Component Library Link : Designator=BT3 Old VaultGUID= New VaultGUID= Old ItemGUID=C9CBD20B-F117-41B3-A908-FF16C51F265D New ItemGUID= Old RevisionGUID=859B749D-04C8-458A-A9B6-EA682A2F3A41 New RevisionGUID=
+Change Managed Component Library Link : Designator=D2 Old VaultGUID= New VaultGUID= Old ItemGUID=94B13E41-6A89-47A4-856A-054AAAD67D00 New ItemGUID= Old RevisionGUID=FFB5FEB5-12A5-4A56-BA51-852D36BD89A6 New RevisionGUID=
+Change Managed Component Library Link : Designator=D3 Old VaultGUID= New VaultGUID= Old ItemGUID=94B13E41-6A89-47A4-856A-054AAAD67D00 New ItemGUID= Old RevisionGUID=FFB5FEB5-12A5-4A56-BA51-852D36BD89A6 New RevisionGUID=
+Change Managed Component Library Link : Designator=D5 Old VaultGUID= New VaultGUID= Old ItemGUID=C2C04119-44D4-4351-9B8D-B76852503918 New ItemGUID= Old RevisionGUID=868AFD9D-44EA-4E2D-924B-2A561404874A New RevisionGUID=
+Change Managed Component Library Link : Designator=D10 Old VaultGUID= New VaultGUID= Old ItemGUID=94B13E41-6A89-47A4-856A-054AAAD67D00 New ItemGUID= Old RevisionGUID=FFB5FEB5-12A5-4A56-BA51-852D36BD89A6 New RevisionGUID=
+Change Managed Component Library Link : Designator=J4 Old VaultGUID= New VaultGUID= Old ItemGUID=C47B7C10-CBD3-4B93-BA48-F77235F645F5 New ItemGUID= Old RevisionGUID=8A69B98C-7F9C-4A2F-AF2F-8AEA1FB1AB16 New RevisionGUID=
+Change Managed Component Library Link : Designator=L1 Old VaultGUID= New VaultGUID= Old ItemGUID=61A7056B-19FD-4EEE-8B26-0A2A638F572E New ItemGUID= Old RevisionGUID=CB051381-3B1B-4790-89A4-A9663C8006BB New RevisionGUID=
+Change Managed Component Library Link : Designator=L2 Old VaultGUID= New VaultGUID= Old ItemGUID=413BD538-1C7A-4457-BF03-9C8A6B95D2DE New ItemGUID= Old RevisionGUID=FDA96BD1-D271-4AE7-B279-4580CCA3E96B New RevisionGUID=
+Change Managed Component Library Link : Designator=L3 Old VaultGUID= New VaultGUID= Old ItemGUID=413BD538-1C7A-4457-BF03-9C8A6B95D2DE New ItemGUID= Old RevisionGUID=FDA96BD1-D271-4AE7-B279-4580CCA3E96B New RevisionGUID=
+Change Managed Component Library Link : Designator=L4 Old VaultGUID= New VaultGUID= Old ItemGUID=413BD538-1C7A-4457-BF03-9C8A6B95D2DE New ItemGUID= Old RevisionGUID=FDA96BD1-D271-4AE7-B279-4580CCA3E96B New RevisionGUID=
+Change Managed Component Library Link : Designator=L5 Old VaultGUID= New VaultGUID= Old ItemGUID=413BD538-1C7A-4457-BF03-9C8A6B95D2DE New ItemGUID= Old RevisionGUID=FDA96BD1-D271-4AE7-B279-4580CCA3E96B New RevisionGUID=
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID= Old ItemGUID=97958AAE-1DFE-40B2-8E29-B39443807ED7 New ItemGUID= Old RevisionGUID=03A27E80-7BFC-4FB0-BCCB-CA4929A2944C New RevisionGUID=
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID= Old ItemGUID=9970798E-0CCE-439F-8743-13BB2344C48A New ItemGUID= Old RevisionGUID=ABFA1C0E-D7A3-4A58-A373-68C0CB06B845 New RevisionGUID=
+Change Managed Component Library Link : Designator=U5 Old VaultGUID= New VaultGUID= Old ItemGUID=BFAEE771-BE85-4896-99DE-32638792427F New ItemGUID= Old RevisionGUID=1EE7FEED-DA51-486C-9FCA-96B3BC06C9BA New RevisionGUID=
+Change Managed Component Library Link : Designator=U9 Old VaultGUID= New VaultGUID= Old ItemGUID=60491DC6-5886-478C-A5EE-960C271CD59E New ItemGUID= Old RevisionGUID=EC482B99-3E39-4EED-92E5-3C84AEF9BB06 New RevisionGUID=
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-TANTAL-A
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found C-0603
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-EZAEG1-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found SOT95P280X145-6N
+Add Component: Footprint Not Found FP-LTST-C191TBKT-MFG
+Add Component: Footprint Not Found FP-SOD323-MFG
+Add Component: Footprint Not Found FIL_DEA162450BT-1288B1
+Add Component: Footprint Not Found 693043020611
+Add Component: Footprint Not Found FP-IHLP-2020CZ-FP_1_905x2-MFG
+Add Component: Footprint Not Found PLS-3
+Add Component: Footprint Not Found PLS-2
+Add Component: Footprint Not Found SMTC-TSW-103-08-L-D_V
+Add Component: Footprint Not Found PLS-12
+Add Component: Footprint Not Found PLS-2
+Add Component: Footprint Not Found FP-Micro3-IPC_B
+Add Component: Footprint Not Found FP-Micro3-IPC_B
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found R-0603
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found test_point
+Add Component: Footprint Not Found FP-SOT25-IPC_A
+Add Component: Footprint Not Found SOT95P280X145-6N
+Add Component: Footprint Not Found XCVR_EG915NEUAC-N06-SNNSA
+Add Component: Footprint Not Found SOIC127P790X216-8N
+Add Component: Footprint Not Found FP-SO-8EP-IPC_A
+Add Component: Footprint Not Found SMD-4 (4.5x3.2)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C22-1
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-1
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C24-1
+Add Pin To Net: Unknown Pin: Pin C24-2
+Add Pin To Net: Unknown Pin: Pin C25-1
+Add Pin To Net: Unknown Pin: Pin C25-2
+Add Pin To Net: Unknown Pin: Pin C26-1
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C27-1
+Add Pin To Net: Unknown Pin: Pin C27-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C34-1
+Add Pin To Net: Unknown Pin: Pin C34-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C37-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C43-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Add Pin To Net: Unknown Pin: Pin C44-2
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C45-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C47-1
+Add Pin To Net: Unknown Pin: Pin C47-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C49-1
+Add Pin To Net: Unknown Pin: Pin C49-2
+Add Pin To Net: Unknown Pin: Pin C50-1
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C54-1
+Add Pin To Net: Unknown Pin: Pin C54-2
+Add Pin To Net: Unknown Pin: Pin C55-1
+Add Pin To Net: Unknown Pin: Pin C55-2
+Add Pin To Net: Unknown Pin: Pin C56-1
+Add Pin To Net: Unknown Pin: Pin C56-2
+Add Pin To Net: Unknown Pin: Pin C57-1
+Add Pin To Net: Unknown Pin: Pin C57-2
+Add Pin To Net: Unknown Pin: Pin C58-1
+Add Pin To Net: Unknown Pin: Pin C58-2
+Add Pin To Net: Unknown Pin: Pin C60-1
+Add Pin To Net: Unknown Pin: Pin C60-2
+Add Pin To Net: Unknown Pin: Pin C61-1
+Add Pin To Net: Unknown Pin: Pin C61-2
+Add Pin To Net: Unknown Pin: Pin C62-1
+Add Pin To Net: Unknown Pin: Pin C62-2
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C65-1
+Add Pin To Net: Unknown Pin: Pin C65-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C67-1
+Add Pin To Net: Unknown Pin: Pin C67-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D11-3
+Add Pin To Net: Unknown Pin: Pin D11-4
+Add Pin To Net: Unknown Pin: Pin D11-5
+Add Pin To Net: Unknown Pin: Pin D11-6
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin FL1-1
+Add Pin To Net: Unknown Pin: Pin FL1-2
+Add Pin To Net: Unknown Pin: Pin FL1-3
+Add Pin To Net: Unknown Pin: Pin J5-C1
+Add Pin To Net: Unknown Pin: Pin J5-C2
+Add Pin To Net: Unknown Pin: Pin J5-C3
+Add Pin To Net: Unknown Pin: Pin J5-C5
+Add Pin To Net: Unknown Pin: Pin J5-C7
+Add Pin To Net: Unknown Pin: Pin J5-Shield
+Add Pin To Net: Unknown Pin: Pin L6-1
+Add Pin To Net: Unknown Pin: Pin L6-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P1-3
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P3-3
+Add Pin To Net: Unknown Pin: Pin P3-4
+Add Pin To Net: Unknown Pin: Pin P3-6
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin P4-3
+Add Pin To Net: Unknown Pin: Pin P4-4
+Add Pin To Net: Unknown Pin: Pin P4-5
+Add Pin To Net: Unknown Pin: Pin P4-6
+Add Pin To Net: Unknown Pin: Pin P4-7
+Add Pin To Net: Unknown Pin: Pin P4-8
+Add Pin To Net: Unknown Pin: Pin P4-9
+Add Pin To Net: Unknown Pin: Pin P4-10
+Add Pin To Net: Unknown Pin: Pin P4-11
+Add Pin To Net: Unknown Pin: Pin P4-12
+Add Pin To Net: Unknown Pin: Pin P5-1
+Add Pin To Net: Unknown Pin: Pin P5-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-1
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R26-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R33-1
+Add Pin To Net: Unknown Pin: Pin R33-2
+Add Pin To Net: Unknown Pin: Pin R34-1
+Add Pin To Net: Unknown Pin: Pin R34-2
+Add Pin To Net: Unknown Pin: Pin R35-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R36-1
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin T1-1
+Add Pin To Net: Unknown Pin: Pin T2-1
+Add Pin To Net: Unknown Pin: Pin T3-1
+Add Pin To Net: Unknown Pin: Pin T4-1
+Add Pin To Net: Unknown Pin: Pin T5-1
+Add Pin To Net: Unknown Pin: Pin T6-1
+Add Pin To Net: Unknown Pin: Pin T7-1
+Add Pin To Net: Unknown Pin: Pin T8-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U6-9
+Add Pin To Net: Unknown Pin: Pin U6-10
+Add Pin To Net: Unknown Pin: Pin U6-15
+Add Pin To Net: Unknown Pin: Pin U6-17
+Add Pin To Net: Unknown Pin: Pin U6-22
+Add Pin To Net: Unknown Pin: Pin U6-23
+Add Pin To Net: Unknown Pin: Pin U6-25
+Add Pin To Net: Unknown Pin: Pin U6-26
+Add Pin To Net: Unknown Pin: Pin U6-28
+Add Pin To Net: Unknown Pin: Pin U6-29
+Add Pin To Net: Unknown Pin: Pin U6-30
+Add Pin To Net: Unknown Pin: Pin U6-31
+Add Pin To Net: Unknown Pin: Pin U6-32
+Add Pin To Net: Unknown Pin: Pin U6-33
+Add Pin To Net: Unknown Pin: Pin U6-34
+Add Pin To Net: Unknown Pin: Pin U6-35
+Add Pin To Net: Unknown Pin: Pin U6-36
+Add Pin To Net: Unknown Pin: Pin U6-37
+Add Pin To Net: Unknown Pin: Pin U6-43
+Add Pin To Net: Unknown Pin: Pin U6-44
+Add Pin To Net: Unknown Pin: Pin U6-45
+Add Pin To Net: Unknown Pin: Pin U6-46
+Add Pin To Net: Unknown Pin: Pin U6-47
+Add Pin To Net: Unknown Pin: Pin U6-48
+Add Pin To Net: Unknown Pin: Pin U6-50
+Add Pin To Net: Unknown Pin: Pin U6-52
+Add Pin To Net: Unknown Pin: Pin U6-53
+Add Pin To Net: Unknown Pin: Pin U6-54
+Add Pin To Net: Unknown Pin: Pin U6-55
+Add Pin To Net: Unknown Pin: Pin U6-58
+Add Pin To Net: Unknown Pin: Pin U6-59
+Add Pin To Net: Unknown Pin: Pin U6-60
+Add Pin To Net: Unknown Pin: Pin U6-61
+Add Pin To Net: Unknown Pin: Pin U6-62
+Add Pin To Net: Unknown Pin: Pin U6-64
+Add Pin To Net: Unknown Pin: Pin U6-67
+Add Pin To Net: Unknown Pin: Pin U6-68
+Add Pin To Net: Unknown Pin: Pin U6-69
+Add Pin To Net: Unknown Pin: Pin U6-70
+Add Pin To Net: Unknown Pin: Pin U6-71
+Add Pin To Net: Unknown Pin: Pin U6-72
+Add Pin To Net: Unknown Pin: Pin U6-73
+Add Pin To Net: Unknown Pin: Pin U6-74
+Add Pin To Net: Unknown Pin: Pin U6-75
+Add Pin To Net: Unknown Pin: Pin U6-79
+Add Pin To Net: Unknown Pin: Pin U6-80
+Add Pin To Net: Unknown Pin: Pin U6-81
+Add Pin To Net: Unknown Pin: Pin U6-82
+Add Pin To Net: Unknown Pin: Pin U6-88
+Add Pin To Net: Unknown Pin: Pin U6-89
+Add Pin To Net: Unknown Pin: Pin U6-90
+Add Pin To Net: Unknown Pin: Pin U6-91
+Add Pin To Net: Unknown Pin: Pin U6-100
+Add Pin To Net: Unknown Pin: Pin U6-101
+Add Pin To Net: Unknown Pin: Pin U6-102
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U8-1
+Add Pin To Net: Unknown Pin: Pin U8-2
+Add Pin To Net: Unknown Pin: Pin U8-3
+Add Pin To Net: Unknown Pin: Pin U8-4
+Add Pin To Net: Unknown Pin: Pin U8-5
+Add Pin To Net: Unknown Pin: Pin U8-6
+Add Pin To Net: Unknown Pin: Pin U8-7
+Add Pin To Net: Unknown Pin: Pin U8-8
+Add Pin To Net: Unknown Pin: Pin U8-9
+Add Pin To Net: Unknown Pin: Pin ZG1-1
+Add Pin To Net: Unknown Pin: Pin ZG1-2
+Add Pin To Net: Unknown Pin: Pin ZG1-3
+Change Class Name : Old Net Name=Sheet1 New Net Name=IS12.01-01.603.01
+Added Member To Class: ClassName=IS12.01-01.603.01 Member=Component B2 LD56100DPU33R
+Added Member To Class: ClassName=IS12.01-01.603.01 Member=Component BT1 1042P
+Add Class Member: Failed to add class member : Component C1 100n
+Add Class Member: Failed to add class member : Component C2 1u
+Add Class Member: Failed to add class member : Component C3 10u
+Add Class Member: Failed to add class member : Component C4 100n
+Add Class Member: Failed to add class member : Component C5 100n
+Add Class Member: Failed to add class member : Component C6 10u
+Add Class Member: Failed to add class member : Component C7 4u7
+Add Class Member: Failed to add class member : Component C8 1u
+Add Class Member: Failed to add class member : Component C9 4u7
+Add Class Member: Failed to add class member : Component C10 4u7
+Add Class Member: Failed to add class member : Component C11 4u7
+Add Class Member: Failed to add class member : Component C12 10u
+Add Class Member: Failed to add class member : Component C13 100n
+Add Class Member: Failed to add class member : Component C14 10u
+Add Class Member: Failed to add class member : Component C15 100n
+Add Class Member: Failed to add class member : Component C16 100n
+Add Class Member: Failed to add class member : Component C17 100n
+Add Class Member: Failed to add class member : Component C18 10p
+Add Class Member: Failed to add class member : Component C19 88p
+Add Class Member: Failed to add class member : Component C20 100n
+Add Class Member: Failed to add class member : Component C21 100u
+Add Class Member: Failed to add class member : Component C22 10p
+Add Class Member: Failed to add class member : Component C23 88p
+Add Class Member: Failed to add class member : Component C24 100n
+Add Class Member: Failed to add class member : Component C25 100u
+Add Class Member: Failed to add class member : Component C26 1n
+Add Class Member: Failed to add class member : Component C27 10n
+Add Class Member: Failed to add class member : Component C28 1n
+Add Class Member: Failed to add class member : Component C29 10n
+Add Class Member: Failed to add class member : Component C30 100n
+Add Class Member: Failed to add class member : Component C31 1.2p
+Add Class Member: Failed to add class member : Component C32 DNP
+Add Class Member: Failed to add class member : Component C33 0.3p
+Add Class Member: Failed to add class member : Component C34 0.8p
+Add Class Member: Failed to add class member : Component C35 2u
+Add Class Member: Failed to add class member : Component C36 100n
+Add Class Member: Failed to add class member : Component C37 100n
+Add Class Member: Failed to add class member : Component C40 100n
+Add Class Member: Failed to add class member : Component C41 100n
+Add Class Member: Failed to add class member : Component C42 2u
+Add Class Member: Failed to add class member : Component C43 4u7
+Add Class Member: Failed to add class member : Component C44 2u
+Add Class Member: Failed to add class member : Component C45 2u
+Add Class Member: Failed to add class member : Component C46 4u7
+Add Class Member: Failed to add class member : Component C47 2u
+Add Class Member: Failed to add class member : Component C48 100n
+Add Class Member: Failed to add class member : Component C49 100n
+Add Class Member: Failed to add class member : Component C50 100n
+Add Class Member: Failed to add class member : Component C52 100n
+Add Class Member: Failed to add class member : Component C54 33p
+Add Class Member: Failed to add class member : Component C55 33p
+Add Class Member: Failed to add class member : Component C56 100n
+Add Class Member: Failed to add class member : Component C57 33p
+Add Class Member: Failed to add class member : Component C58 100n
+Add Class Member: Failed to add class member : Component C59 100n
+Add Class Member: Failed to add class member : Component C60 100n
+Add Class Member: Failed to add class member : Component C61 100n
+Add Class Member: Failed to add class member : Component C62 10u
+Add Class Member: Failed to add class member : Component C63 100n
+Add Class Member: Failed to add class member : Component C64 10u
+Add Class Member: Failed to add class member : Component C65 100n
+Add Class Member: Failed to add class member : Component C66 10n
+Add Class Member: Failed to add class member : Component C67 2n7
+Add Class Member: Failed to add class member : Component D1 Power
+Add Class Member: Failed to add class member : Component D4 Pow_Sys
+Add Class Member: Failed to add class member : Component D6 EZA-EG1N50AC
+Add Class Member: Failed to add class member : Component D7 TIME_PULSE
+Add Class Member: Failed to add class member : Component D8 GEOFENCE_STAT
+Add Class Member: Failed to add class member : Component D9 RTC_STAT
+Add Class Member: Failed to add class member : Component D11 PESD3V3L5UY,115
+Add Class Member: Failed to add class member : Component D12 Power
+Add Class Member: Failed to add class member : Component D13 BZX384-C4V7
+Add Class Member: Failed to add class member : Component FL1 DEA162450BT
+Add Class Member: Failed to add class member : Component J5 SIM-card
+Add Class Member: Failed to add class member : Component L6 3.3uH
+Add Class Member: Failed to add class member : Component P1 boot
+Add Class Member: Failed to add class member : Component P2 DBG
+Add Class Member: Failed to add class member : Component P3 SWD
+Add Class Member: Failed to add class member : Component P4 Interface select
+Add Class Member: Failed to add class member : Component P5 INT_SEL
+Add Class Member: Failed to add class member : Component Q1 2N7002
+Add Class Member: Failed to add class member : Component Q2 2N7002
+Add Class Member: Failed to add class member : Component R1 1k
+Add Class Member: Failed to add class member : Component R2 260R
+Add Class Member: Failed to add class member : Component R3 10k
+Add Class Member: Failed to add class member : Component R4 100R
+Add Class Member: Failed to add class member : Component R5 5k23
+Add Class Member: Failed to add class member : Component R6 10k
+Add Class Member: Failed to add class member : Component R7 30k1
+Add Class Member: Failed to add class member : Component R8 27R
+Add Class Member: Failed to add class member : Component R9 100k
+Add Class Member: Failed to add class member : Component R10 27R
+Add Class Member: Failed to add class member : Component R11 100R
+Add Class Member: Failed to add class member : Component R12 120R
+Add Class Member: Failed to add class member : Component R13 10k
+Add Class Member: Failed to add class member : Component R14 100R
+Add Class Member: Failed to add class member : Component R15 1k
+Add Class Member: Failed to add class member : Component R16 1k
+Add Class Member: Failed to add class member : Component R17 47k
+Add Class Member: Failed to add class member : Component R18 47k
+Add Class Member: Failed to add class member : Component R19 10k
+Add Class Member: Failed to add class member : Component R20 300R
+Add Class Member: Failed to add class member : Component R21 10k
+Add Class Member: Failed to add class member : Component R22 17R
+Add Class Member: Failed to add class member : Component R23 100k
+Add Class Member: Failed to add class member : Component R24 4k7
+Add Class Member: Failed to add class member : Component R25 300R
+Add Class Member: Failed to add class member : Component R26 100k
+Add Class Member: Failed to add class member : Component R27 300R
+Add Class Member: Failed to add class member : Component R31 300R
+Add Class Member: Failed to add class member : Component R32 15k
+Add Class Member: Failed to add class member : Component R33 93k9
+Add Class Member: Failed to add class member : Component R34 10k
+Add Class Member: Failed to add class member : Component R35 1k
+Add Class Member: Failed to add class member : Component R36 22k1
+Add Class Member: Failed to add class member : Component T1 Test_point
+Add Class Member: Failed to add class member : Component T2 Test_point
+Add Class Member: Failed to add class member : Component T3 Test_point
+Add Class Member: Failed to add class member : Component T4 Test_point
+Add Class Member: Failed to add class member : Component T5 Test_point
+Add Class Member: Failed to add class member : Component T6 Test_point
+Add Class Member: Failed to add class member : Component T7 Test_point
+Add Class Member: Failed to add class member : Component T8 Test_point
+Add Class Member: Failed to add class member : Component U1 AP2112K-3.3TRG1
+Added Member To Class: ClassName=IS12.01-01.603.01 Member=Component U2 BQ25895MRTWR
+Added Member To Class: ClassName=IS12.01-01.603.01 Member=Component U3 TS3USB221DRCR
+Add Class Member: Failed to add class member : Component U4 USBLC6-2SC6
+Add Class Member: Failed to add class member : Component U6 EG915NEUAC-N06-SNNSA
+Add Class Member: Failed to add class member : Component U7 W25Q32BVSSIG
+Add Class Member: Failed to add class member : Component U8 AP64501SP-13
+Add Class Member: Failed to add class member : Component ZG1 32 MHz
+Change Room Name: Old Name=Sheet1 New Name=IS12.01-01.603.01
+Change Room Scope: Old Scope=InComponentClass('Sheet1') New Scope=InComponentClass('IS12.01-01.603.01')
